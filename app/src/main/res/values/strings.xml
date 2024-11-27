@@ -1,0 +1,41 @@
+<resources>
+    <!-- name of app -->
+    <string name="app_name">EasyAuth</string>
+
+    <!-- Text elements -->
+    <string name="title_sign_in">Sign In</string>
+    <string name="account_prompt">Enter your account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="or_separator">OR</string>
+    <string name="prompt_no_account">Don’t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="account_creation_prompt">Create your account</string>
+
+    <!-- Hint -->
+    <string name="hint_username">Username</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <!-- Button -->
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+
+    <!-- Texto del botón para registrarse (Botón) -->
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Icon -->
+    <string name="show_password_icon">Show password</string>
+    <string name="google_icon_desc">Google icon</string>
+
+    <!-- Activity title -->
+    <string name="title_activity_register"/>
+    <string name="confirmation_message">Confirmation message</string>
+    <string name="accept">Accept\n</string>
+    <string name="hola_bienve">Hello, Welcome to </string>
+    <string name="Close">Cloase app</string>
+    <string name="Home"/>
+    <string name="Animation" />
+</resources>
